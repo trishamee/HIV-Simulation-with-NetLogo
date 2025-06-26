@@ -41,8 +41,7 @@ This repository contains the complete NetLogo simulation model, raw datasets, an
 ### Installation
 1. Download and install NetLogo
 2. Clone this repository:
-   git clone https://github.com/trishamee/HIV-Simulation-with-NetLogo.git
-   cd HIV-Simulation-NetLogo   
+   `git clone https://github.com/trishamee/HIV-Simulation-with-NetLogo.git`
 3. Open `src/HIV-Simulation.nlogo` in NetLogo
 4. Follow the parameter setup guide in `/guides/`
 
