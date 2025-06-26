@@ -14,27 +14,30 @@ This repository contains the complete NetLogo simulation model, raw datasets, an
 - **Comprehensive Analysis**: Sensitivity analysis (OFAT) across six key factors
 - **Open Source**: Full code and data available for research and educational use
 
-## Repository Structure
+## 📁 Repository Structure
 
+```text
 ├── src/
-│   ├── HIV-Simulation.nlogo          # Main NetLogo simulation file
-│   └── documentation/               # Technical documentation
+│   ├── HIV-Simulation.nlogo            # Main NetLogo simulation file
+│   └── documentation/                  # Technical documentation
 ├── data/
-│   ├── raw-results/                # Complete simulation datasets
-│   │   ├── base-simulation/        # Default parameter results
-│   │   ├── commitment-analysis/    # Commitment length variations
-│   │   ├── condom-use-analysis/    # Condom use tendency analysis
-│   │   ├── test-frequency-analysis/ # Testing frequency scenarios
-│   │   ├── treatment-tendency-analysis/ # Treatment seeking behavior
-│   │   ├── drug-tendency-analysis/ # Drug use pattern analysis
+│   ├── raw-results/                    # Complete simulation datasets
+│   │   ├── base-simulation/            # Default parameter results
+│   │   ├── commitment-analysis/        # Commitment length variations
+│   │   ├── condom-use-analysis/        # Condom use tendency analysis
+│   │   ├── test-frequency-analysis/    # Testing frequency scenarios
+│   │   ├── treatment-tendency-analysis/# Treatment seeking behavior
+│   │   ├── drug-tendency-analysis/     # Drug use pattern analysis
 │   │   └── coupling-tendency-analysis/ # Sexual behavior patterns
-│   ├── calibration-data/           # Philippines HIV reference data
-│   └── summarized-results/         # Summarized Result
+│   ├── calibration-data/               # Philippines HIV reference data
+│   └── summarized-results/             # Summarized result tables
 └── guides/
-    ├── installation-guide.md      # Setup instructions
-    ├── running-simulations.md     # Execution guide
-    ├── parameter-modification.md  # Customization instructions
-    └── data-analysis-examples.md  # Analysis tutorials
+    ├── installation-guide.md           # Setup instructions
+    ├── running-simulations.md          # Execution guide
+    ├── parameter-modification.md       # Customization instructions
+    └── data-analysis-examples.md       # Analysis tutorials
+```
+
 
 ## Quick Start
 
