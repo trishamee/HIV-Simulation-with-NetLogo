@@ -104,7 +104,7 @@ All simulation data and code are made freely available for research and educatio
 
 ## Related Publications
 - Main Research Paper: [JOURNAL LINK PLACEHOLDER]
-- Medium Article: [MEDIUM LINK PLACEHOLDER]
+- Medium Article: [Simulating HIV Transmission Dynamics](https://medium.com/@tri.beleta/simulating-hiv-transmission-dynamics-an-agent-based-approach-using-netlogo-2eab9790e37e)
 
 ---
 
